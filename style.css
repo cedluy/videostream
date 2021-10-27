@@ -1,4 +1,4 @@
-#video::cue{
-    background-image: linear-gradient(to bottom, dimgray, lightgray);
-    color: papayawhip;
+video::cue{
+    color: yellow;
+    font-family: "Source Sans Pro", sans-serif;
 }
