@@ -13,3 +13,5 @@ https://w3c.github.io/webvtt/
 ### .SRT > .VTT
 
 https://atelier.u-sub.net/srt2vtt/
+
+https://www.happyscribe.com/fr/outils-sous-titrage/convertir-srt-en-vtt
